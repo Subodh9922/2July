@@ -77,6 +77,7 @@ public class ZerodhaMainPageTest {
 		Thread.sleep(2000);
 		zerodhaMainPage.clickonDeleteWatchlist(driver);
 		
+		System.out.println("this is India")	;	
 		}
 	
 	
